@@ -1,4 +1,4 @@
-### Hi there 👋
+![gif](Jay-Gohil.gif)
 
 <!--
 **gohil-jay/gohil-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
