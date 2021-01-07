@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Jay-Gohil.gif" alt="animated" />
+  <img src="Jay.gif" alt="animated" />
 </p>
 
 Check out my portfolio website at [Jay Gohil](https://jay-gohil.ml)
