@@ -15,5 +15,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gohil-jay&theme=dark&fire=87ceeb&ring=87ceeb&currStreakLabel=87ceeb" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gohil-jay&theme=dark&fire=87ceeb&ring=87ceeb&currStreakLabel=87ceeb&hide_border=true" alt="GitHub Streak" />
 </p>
