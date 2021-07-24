@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://jay-gohil.ml"><img src="https://raw.githubusercontent.com/gohil-jay/Portfolio-Website/main/screenshots/JayGohil.gif" alt="Portfolio Website GIF" /></a>
+  <a href="https://jay-gohil.me"><img src="https://raw.githubusercontent.com/gohil-jay/Portfolio-Website/main/screenshots/JayGohil.gif" alt="Portfolio Website GIF" /></a>
 </p>
 
 <br>
 
 <p align="center">
-  Check out my portfolio website <a href="https://jay-gohil.ml" target="_blank">here</a>.
+  Check out my portfolio website <a href="https://jay-gohil.me" target="_blank">here</a>.
 </p>
 
 <p align="center">
