@@ -21,3 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gohil-jay&hide=issues&theme=algolia" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/gohil-jay"><img alt="Jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gohil-jay&theme=react-dark&color=fff&bg_color=050f2c" /></a>
+</p>
