@@ -27,16 +27,20 @@
   <a href="https://github.com/gohil-jay"><img alt="Jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gohil-jay&theme=react-dark&color=fff&bg_color=050f2c" /></a>
 </p>
 
-<hr>
+<br>
+
+<h1 align="center">
+	───────────── &nbsp &nbsp Connect with me &nbsp &nbsp ─────────────
+<h1>
 
 <p align="center">
-  <a href="https://jay-gohil.me/"><img src="https://github.com/gohil-jay/gohil-jay/blob/main/Website-GIF.gif?raw=true" alt="Website"/></a>
+  <a href="https://jay-gohil.me/"><img height=45 src="https://github.com/gohil-jay/gohil-jay/blob/main/Website.gif?raw=true" alt="Website"/></a>
   <a><img src="https://github.com/gohil-jay/gohil-jay/blob/main/Spacer.png?raw=true" alt="Spacer"/></a>
-  <a href="https://www.linkedin.com/in/jay--gohil/"><img src="https://github.com/gohil-jay/gohil-jay/blob/main/LinkedIn-GIF.gif?raw=true" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jay--gohil/"><img height=45 src="https://github.com/gohil-jay/gohil-jay/blob/main/LinkedIn.gif?raw=true" alt="LinkedIn"/></a>
   <a><img src="https://github.com/gohil-jay/gohil-jay/blob/main/Spacer.png?raw=true" alt="Spacer"/></a>
-	<a href="https://github.com/gohil-jay"><img src="https://github.com/gohil-jay/gohil-jay/blob/main/GitHub-GIF.gif?raw=true" alt="GitHub"/></a>
-	<a><img src="https://github.com/gohil-jay/gohil-jay/blob/main/Spacer.png?raw=true" alt="Spacer"/></a>
-  <a href="https://t.me/jay_gohil"><img src="https://github.com/gohil-jay/gohil-jay/blob/main/Telegram-GIF.gif?raw=true" alt="Telegram"/></a>
+  <a href="https://github.com/gohil-jay"><img height=45 src="https://github.com/gohil-jay/gohil-jay/blob/main/GitHub.gif?raw=true" alt="GitHub"/></a>
   <a><img src="https://github.com/gohil-jay/gohil-jay/blob/main/Spacer.png?raw=true" alt="Spacer"/></a>
-  <a href="mailto:jay.gohil.info@gmail.com"><img src="https://github.com/gohil-jay/gohil-jay/blob/main/Email-GIF.gif?raw=true" alt="Email"/></a>
+  <a href="https://t.me/jay_gohil"><img height=45 src="https://github.com/gohil-jay/gohil-jay/blob/main/Telegram.gif?raw=true" alt="Telegram"/></a>
+  <a><img src="https://github.com/gohil-jay/gohil-jay/blob/main/Spacer.png?raw=true" alt="Spacer"/></a>
+  <a href="mailto:jay.gohil.info@gmail.com"><img height=45 src="https://github.com/gohil-jay/gohil-jay/blob/main/Email.gif?raw=true" alt="Email"/></a>
 </p>
