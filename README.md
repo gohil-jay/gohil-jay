@@ -30,7 +30,7 @@
 <br>
 
 <h1 align="center">
-	───────────── &nbsp &nbsp Connect with me &nbsp &nbsp ─────────────
+	───────────── &nbsp CONNECT &nbsp ─────────────
 <h1>
 
 <p align="center">
