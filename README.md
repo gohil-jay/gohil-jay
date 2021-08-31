@@ -29,6 +29,12 @@
 
 <br>
 
+<p align="center">
+  <a href="https://jay-gohil.me/"><img height=500 src="https://github.com/gohil-jay/gohil-jay/blob/main/Tools-Technologies.gif?raw=true" alt="Tools and Technologies"/></a>
+</p>
+
+<br>
+
 <h1 align="center">
 	───────────── &nbsp CONNECT &nbsp ─────────────
 <h1>
