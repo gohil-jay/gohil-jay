@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <a href="https://jay-gohil.me/"><img src="https://github.com/gohil-jay/gohil-jay/blob/main/Tools_and_Technologies.gif?raw=true" alt="Tools and Technologies"/></a>
+  <a href="https://jay-gohil.me/"><img height=500 src="https://github.com/gohil-jay/gohil-jay/blob/main/Tools-Technologies.gif?raw=true" alt="Tools and Technologies"/></a>
 </p>
 
 <br>
