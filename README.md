@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jay-gohil.me"><img src="https://raw.githubusercontent.com/gohil-jay/Portfolio-Website/main/screenshots/HomePage.gif" alt="Portfolio Website GIF" /></a>
+  <a href="https://jay-gohil.me"><img src="https://raw.githubusercontent.com/gohil-jay/Portfolio-Website/main/screenshots/JayG.gif" alt="Portfolio Website GIF" /></a>
 </p>
 
 <!-- <br>
