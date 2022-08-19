@@ -35,6 +35,7 @@
  -->
 <br>
 
+<!--
 <h1 align="center">
 	───────────── &nbsp CONNECT &nbsp ─────────────
 <h1>
@@ -50,3 +51,4 @@
   <a><img src="https://github.com/gohil-jay/gohil-jay/blob/main/Spacer.png?raw=true" alt="Spacer"/></a>
   <a href="mailto:jay.gohil.info@gmail.com"><img height=45 src="https://github.com/gohil-jay/gohil-jay/blob/main/Email.gif?raw=true" alt="Email"/></a>
 </p>
+-->
