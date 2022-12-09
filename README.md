@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gohil-jay"><img alt="Jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gohil-jay&theme=react-dark&color=fff&bg_color=050f2c" /></a>
+  <a href="https://github.com/gohil-jay"><img alt="Jay's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=gohil-jay&theme=react-dark&color=fff&bg_color=050f2c" /></a>
 </p>
 
 <br>
