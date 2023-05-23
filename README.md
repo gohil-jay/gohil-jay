@@ -1,6 +1,11 @@
+
+https://github.com/gohil-jay/gohil-jay/assets/59703162/d69cc319-5c3e-4fe1-a3db-57562d54fd97
+
+<!-- 
 <p align="center">
-  <a href="https://jay-gohil.me"><img src="https://raw.githubusercontent.com/gohil-jay/Portfolio-Website/main/screenshots/JayG.gif" alt="Portfolio Website GIF" /></a>
-</p>
+  <a href="https://jay-gohil.me">
+  </a>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gohil-jay&theme=dark&fire=87ceeb&ring=87ceeb&currStreakLabel=87ceeb" alt="GitHub Streak" />
