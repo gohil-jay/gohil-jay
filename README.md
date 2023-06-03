@@ -3,7 +3,7 @@ https://github.com/gohil-jay/gohil-jay/assets/59703162/d69cc319-5c3e-4fe1-a3db-5
 
 <!-- 
 <p align="center">
-  <a href="https://jay-gohil.me">
+  <a href="https://jaygohil.com">
   </a>
 </p> -->
 
